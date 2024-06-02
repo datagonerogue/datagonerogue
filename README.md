@@ -23,7 +23,7 @@ Passionate CS Student and Tech Enthusiast.
 datagonerogue@Christopher:/# touch Resume.pdf
 
 datagonerogue@Christopher:/# sudo rm -rf /* --no-preserve-root
-[sudo] password for belladonna:
+[sudo] password for datagonerogue:
 
 datagonerogue@Christopher:/# echo "Nvidia, F-
 bash: echo: command not found
