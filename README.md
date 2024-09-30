@@ -25,6 +25,8 @@ to develop our FOSS project. We urge you to read about the
 [the Software Freedom Conservancy](https://sfconservancy.org) to understand
 some of the reasons why GitHub is not a good place to host FOSS projects.
 
+You can check my [codeberg profile](https://codeberg.org/datagonerogue) for my main repositories.
+
 Any use of this project's code by GitHub Copilot, past or present, is done
 without our permission.  We do not consent to GitHub's use of this project's
 code in Copilot.
