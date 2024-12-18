@@ -3,7 +3,7 @@ datagonerogue@Christopher:/$ whoami
 Smarth Arora
 
 datagonerogue@Christopher:/$ pwd
-"Computer Science"
+Computer Science
 
 datagonerogue@Christopher:/$ ping mikoshi.in
 PING mikoshi.in(codeberg.in-berlin.de (2001:67c:1401:20f0::1)) 56 data bytes
