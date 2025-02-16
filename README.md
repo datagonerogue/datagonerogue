@@ -1,6 +1,6 @@
 ```
 datagonerogue@Christopher:/$ whoami
-Smarth Arora
+datagonerogue
 
 datagonerogue@Christopher:/$ pwd
 Computer Science
